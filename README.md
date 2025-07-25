@@ -1,1 +1,3 @@
-# realtime-polls-3377
+# Project Repository
+
+This is the initial README file for the project.
